@@ -1,4 +1,5 @@
 Hi, I’m @Classycutoff, currently Learning ICT in JAMK.
+
 This is my public Repo for my own projects and school projects outside of JAMK.
 
 
